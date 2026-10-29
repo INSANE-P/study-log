@@ -1,0 +1,4 @@
+node_modules/
+.next/
+.env*
+brand/source/snail-trace.json
